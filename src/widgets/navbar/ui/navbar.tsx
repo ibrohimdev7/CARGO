@@ -4,6 +4,7 @@ import { Link } from "@/i18n/navigation";
 import { Button } from "@/shared/ui";
 
 import { LocaleSwitcher } from "./locale-switcher";
+import Image from "next/image";
 
 export async function Navbar() {
   const t = await getTranslations("Navbar");
@@ -15,7 +16,13 @@ export async function Navbar() {
           href="/"
           className="text-base font-semibold tracking-tight text-zinc-900 dark:text-zinc-50"
         >
-          {t("brand")}
+          <Image
+            src={"/srb.png"}
+            alt="CargoList"
+            width={108}
+            height={32}
+            className="inline-block"
+          />
         </Link>
 
         <nav className="hidden items-center gap-6 md:flex">
