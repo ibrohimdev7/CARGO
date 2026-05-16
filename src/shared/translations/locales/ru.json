@@ -1,0 +1,85 @@
+{
+  "Common": {
+    "appName": "CargoList",
+    "loading": "Загрузка...",
+    "error": "Произошла ошибка",
+    "retry": "Повторить",
+    "submit": "Отправить",
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "search": "Поиск",
+    "actions": "Действия",
+    "details": "Подробнее"
+  },
+  "Navbar": {
+    "brand": "CargoList",
+    "catalogue": "Грузы",
+    "dispatcher": "Диспетчер",
+    "about": "О нас",
+    "login": "Войти"
+  },
+  "Footer": {
+    "rights": "Все права защищены",
+    "about": "О нас",
+    "contact": "Контакты",
+    "privacy": "Конфиденциальность"
+  },
+  "Home": {
+    "title": "Рынок грузоперевозок по Ташкенту и всему Узбекистану",
+    "subtitle": "Разместите груз или найдите доступный",
+    "ctaPost": "Разместить груз",
+    "ctaBrowse": "Смотреть грузы",
+    "ctaDispatcher": "Панель диспетчера"
+  },
+  "DispatcherCargo": {
+    "title": "Список грузов",
+    "subtitle": "Доступные грузы для диспетчера",
+    "totalLabel": "Всего грузов",
+    "errorTitle": "Не удалось получить грузы",
+    "errorRetry": "Повторить попытку",
+    "emptyTitle": "Грузы не найдены",
+    "emptyHint": "Попробуйте изменить фильтры или вернуться позже."
+  },
+  "CargoTable": {
+    "cargo": "Груз",
+    "type": "Тип",
+    "route": "Маршрут",
+    "loadDate": "Дата загрузки",
+    "weight": "Вес",
+    "volume": "Объём",
+    "price": "Цена",
+    "status": "Статус",
+    "contact": "Контакт",
+    "negotiable": "По договорённости",
+    "priceOnRequest": "По запросу",
+    "twoDrivers": "Нужны 2 водителя",
+    "vehicles": "Машины",
+    "noName": "Без названия"
+  },
+  "CargoFilter": {
+    "title": "Фильтры",
+    "statusLabel": "Статус",
+    "limitLabel": "На странице",
+    "sortLabel": "Сортировка",
+    "sortNewest": "Сначала новые",
+    "sortOldest": "Сначала старые",
+    "reset": "Сбросить"
+  },
+  "CargoStatus": {
+    "SEARCHING_ALL": "В поиске",
+    "SEARCHING": "В поиске",
+    "ON_THE_WAY": "В пути",
+    "DELIVERED": "Доставлен",
+    "CANCELLED": "Отменён",
+    "DRAFT": "Черновик",
+    "MODERATION": "На модерации",
+    "REJECTED": "Отклонён"
+  },
+  "Pagination": {
+    "previous": "Назад",
+    "next": "Вперёд",
+    "page": "Стр.",
+    "of": "из",
+    "limitLabel": "Показывать"
+  }
+}

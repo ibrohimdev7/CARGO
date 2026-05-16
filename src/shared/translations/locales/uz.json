@@ -1,0 +1,85 @@
+{
+  "Common": {
+    "appName": "CargoList",
+    "loading": "Yuklanmoqda...",
+    "error": "Xatolik yuz berdi",
+    "retry": "Qayta urinish",
+    "submit": "Yuborish",
+    "cancel": "Bekor qilish",
+    "save": "Saqlash",
+    "search": "Qidirish",
+    "actions": "Amallar",
+    "details": "Batafsil"
+  },
+  "Navbar": {
+    "brand": "CargoList",
+    "catalogue": "Yuklar",
+    "dispatcher": "Dispetcher",
+    "about": "Biz haqimizda",
+    "login": "Kirish"
+  },
+  "Footer": {
+    "rights": "Barcha huquqlar himoyalangan",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "privacy": "Maxfiylik"
+  },
+  "Home": {
+    "title": "Toshkent va butun O'zbekiston bo'ylab yuklar bozori",
+    "subtitle": "Yukingizni e'lon qiling yoki mavjud yuklarni toping",
+    "ctaPost": "Yuk joylash",
+    "ctaBrowse": "Yuklarni ko'rish",
+    "ctaDispatcher": "Dispetcher paneli"
+  },
+  "DispatcherCargo": {
+    "title": "Yuklar ro'yxati",
+    "subtitle": "Dispetcher uchun mavjud yuklar",
+    "totalLabel": "Jami yuklar",
+    "errorTitle": "Yuklarni olishda xato",
+    "errorRetry": "Qayta urinib ko'rish",
+    "emptyTitle": "Yuklar topilmadi",
+    "emptyHint": "Filtrlarni o'zgartirib ko'ring yoki keyinroq tekshiring."
+  },
+  "CargoTable": {
+    "cargo": "Yuk",
+    "type": "Turi",
+    "route": "Yo'nalish",
+    "loadDate": "Yuklash sanasi",
+    "weight": "Og'irligi",
+    "volume": "Hajmi",
+    "price": "Narxi",
+    "status": "Holati",
+    "contact": "Aloqa",
+    "negotiable": "Kelishuv asosida",
+    "priceOnRequest": "So'rov bo'yicha",
+    "twoDrivers": "2 haydovchi kerak",
+    "vehicles": "Mashinalar",
+    "noName": "Nomsiz yuk"
+  },
+  "CargoFilter": {
+    "title": "Filtrlar",
+    "statusLabel": "Holat",
+    "limitLabel": "Sahifadagi soni",
+    "sortLabel": "Tartiblash",
+    "sortNewest": "Eng yangi",
+    "sortOldest": "Eng eski",
+    "reset": "Tozalash"
+  },
+  "CargoStatus": {
+    "SEARCHING_ALL": "Qidiruvda",
+    "SEARCHING": "Qidiruvda",
+    "ON_THE_WAY": "Yo'lda",
+    "DELIVERED": "Yetkazildi",
+    "CANCELLED": "Bekor qilingan",
+    "DRAFT": "Qoralama",
+    "MODERATION": "Moderatsiyada",
+    "REJECTED": "Rad etilgan"
+  },
+  "Pagination": {
+    "previous": "Oldingi",
+    "next": "Keyingi",
+    "page": "Sahifa",
+    "of": "dan",
+    "limitLabel": "Ko'rsatish"
+  }
+}

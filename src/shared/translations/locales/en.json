@@ -1,0 +1,85 @@
+{
+  "Common": {
+    "appName": "CargoList",
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "search": "Search",
+    "actions": "Actions",
+    "details": "Details"
+  },
+  "Navbar": {
+    "brand": "CargoList",
+    "catalogue": "Cargo",
+    "dispatcher": "Dispatcher",
+    "about": "About",
+    "login": "Sign in"
+  },
+  "Footer": {
+    "rights": "All rights reserved",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy"
+  },
+  "Home": {
+    "title": "Cargo marketplace across Tashkent and Uzbekistan",
+    "subtitle": "Post a cargo or find one to deliver",
+    "ctaPost": "Post cargo",
+    "ctaBrowse": "Browse cargo",
+    "ctaDispatcher": "Dispatcher panel"
+  },
+  "DispatcherCargo": {
+    "title": "Cargo list",
+    "subtitle": "Available cargo for dispatchers",
+    "totalLabel": "Total cargo",
+    "errorTitle": "Failed to load cargo",
+    "errorRetry": "Try again",
+    "emptyTitle": "No cargo found",
+    "emptyHint": "Try adjusting filters or check back later."
+  },
+  "CargoTable": {
+    "cargo": "Cargo",
+    "type": "Type",
+    "route": "Route",
+    "loadDate": "Load date",
+    "weight": "Weight",
+    "volume": "Volume",
+    "price": "Price",
+    "status": "Status",
+    "contact": "Contact",
+    "negotiable": "Negotiable",
+    "priceOnRequest": "On request",
+    "twoDrivers": "Two drivers required",
+    "vehicles": "Vehicles",
+    "noName": "Untitled cargo"
+  },
+  "CargoFilter": {
+    "title": "Filters",
+    "statusLabel": "Status",
+    "limitLabel": "Per page",
+    "sortLabel": "Sort",
+    "sortNewest": "Newest first",
+    "sortOldest": "Oldest first",
+    "reset": "Reset"
+  },
+  "CargoStatus": {
+    "SEARCHING_ALL": "Searching",
+    "SEARCHING": "Searching",
+    "ON_THE_WAY": "On the way",
+    "DELIVERED": "Delivered",
+    "CANCELLED": "Cancelled",
+    "DRAFT": "Draft",
+    "MODERATION": "In moderation",
+    "REJECTED": "Rejected"
+  },
+  "Pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page",
+    "of": "of",
+    "limitLabel": "Show"
+  }
+}
